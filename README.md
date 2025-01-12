@@ -2,7 +2,7 @@
 
 This repository contains hands-on lab guide support files for the "[Build AI Chat + RAG Apps with Python, LangChain and Azure Cosmos DB for MongoDB](https://members.build5nines.com/courses/build-ai-chat-rag-apps-with-python-langchain-and-azure-cosmos-db-for-mongodb/)" course that is part of the Build5Nines Membership.
 
-[![Build5Nines Course: Learn how to Build AI Chat + RAG Apps with Python, LangChain and Azure Cosmos DB for MongoDB](images/Build5Nines-COURSE-Build-AI-Chat-RAG-Apps-with-Python-LangChain-and-Azure-CosmosDB-for-MongoDB-624x351.webp)](https://members.build5nines.com/courses/build-ai-chat-rag-apps-with-python-langchain-and-azure-cosmos-db-for-mongodb/)
+[![Build5Nines Course: Learn how to Build AI Chat + RAG Apps with Python, LangChain and Azure Cosmos DB for MongoDB](images/COURSE-Build-AI-Chat-RAG-Apps-with-Python-LangChain-and-Azure-CosmosDB-for-MongoDB.jpg)](https://members.build5nines.com/courses/build-ai-chat-rag-apps-with-python-langchain-and-azure-cosmos-db-for-mongodb/)
 
 ## Empower Your Applications with AI-Driven Chat and Vector Search
 
